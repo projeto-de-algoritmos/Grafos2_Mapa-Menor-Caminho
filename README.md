@@ -1,4 +1,4 @@
-# Mapa Menor Caminho
+# Menor Distância Entre Cidades
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
@@ -17,10 +17,14 @@ Esse projeto tem como objetivo praticar os algoritmos apresentados em sala de au
 ## **Screenshots**
 
 ### **Código**
+![Captura de tela de 2023-10-16 16-25-28](https://github.com/projeto-de-algoritmos/Grafos2_Menor-Distancia-Cidades/assets/69691521/cc4ca1fb-a876-45d8-94eb-4fb252df16c4)
 
 ### **Caminho mais curto entre duas cidades**
+![Captura de tela de 2023-10-16 16-29-33](https://github.com/projeto-de-algoritmos/Grafos2_Menor-Distancia-Cidades/assets/69691521/304a2760-e57b-4a7d-a3b9-690a4b9adc63)
+
 
 ### **Execução**
+![execucao](https://github.com/projeto-de-algoritmos/Grafos2_Menor-Distancia-Cidades/assets/69691521/95b8bd2c-65ea-4e37-935e-86e48698009e)
 
 
 ## **Instalação** 
