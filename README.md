@@ -58,3 +58,5 @@ Para executar o projeto localmente, você deve ter instalado na sua máquina o [
 O servidor Jupyter se abrirá na porta [local](http://localhost:8888/notebooks/Djikstra.ipynb).
 
 Após executar o notebook, escolha dois números entre 0 e 657. O caminho será plotado abaixo.
+
+### [**Link da Apresentação**](./apresentacao.mp4)
